@@ -1,2 +1,2 @@
 # relogio.github.io
-Um relógio de javascript puro
+Um relógio de javascript 
